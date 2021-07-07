@@ -1,0 +1,10 @@
+.contact tr{
+    height: 7rem;
+}
+.contact th{
+    width: 150px;
+    text-align: right;
+}
+.contact td{
+    width: 480px;
+}
