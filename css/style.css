@@ -3,12 +3,12 @@ html{
     height: 100%;
 }
 body{
-    height: 100px;
+    height: 100%;
 }
 .header{
     background-color: #F5B4B3;
     height: 50px;
-    font-style: 1.5rem;
+    font-size: 1.5rem;
 }
 .logo_image{
     width: 110px;
@@ -27,6 +27,9 @@ body{
 ul{
     margin: 0;
     padding: 0;
+}
+ul.top_menu{
+    float: right;
 }
 li{
     list-style: none;
